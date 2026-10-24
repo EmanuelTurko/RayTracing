@@ -1,9 +1,10 @@
 #pragma once
 
+
+#include "helper.h"
+
 #include <array>
-#include <cmath>
 #include <cstddef>
-#include <iostream>
 class vec3;
 
 using point3 = vec3;
